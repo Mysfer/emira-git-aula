@@ -1,8 +1,9 @@
-<!DOCTYPE html>
 <html>
     <header class="header" id="top">
             <div class="text-vertical-center">
               
+  <link rel="stylesheet" type="text/css" href="estilo.css">
+  <link rel="stylesheet" type="text/css" href="estilo.css">
             </div>
         </header>
 <head>
