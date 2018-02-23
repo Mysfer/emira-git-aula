@@ -1,3 +1,4 @@
+create database reclamacoes;
 -- phpMyAdmin SQL Dump
 -- version 4.4.12
 -- http://www.phpmyadmin.net
@@ -29,7 +30,8 @@ SET time_zone = "+00:00";
 CREATE TABLE IF NOT EXISTS `reclamacoes` (
   `id` int(11) NOT NULL,
   `nome` varchar(45) NOT NULL,
-  `texto` varchar(60) NOT NULL
+  `texto` varchar(60) NOT NULL,
+  `email` varchar(60) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
